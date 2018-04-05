@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "myforum\\": "vendor/myforum",
+      "app\\": "app",
+      "widgets\\": "widgets"
+    }
+  },
+  "require": {}
+}

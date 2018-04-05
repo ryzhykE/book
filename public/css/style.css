@@ -1,0 +1,30 @@
+.img-size {
+    width: 250px;
+    height: 250px;
+}
+.post-block {
+    margin-top: 25px;
+}
+
+.admin-block {
+    margin-top: 5%;
+}
+.form-add {
+    width: 400px;
+    margin-top:200px;
+    padding:30px;
+    border-radius: 5px;
+    border: solid 1px grey;
+}
+.add-home {
+    float:right;
+    margin-top: 14px;
+}
+#preview {
+    display:none;
+    width: 400px;
+    margin-top: 200px;
+    padding:30px;
+    border-radius: 5px;
+    border: solid 1px grey;
+}
